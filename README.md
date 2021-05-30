@@ -1,2 +1,2 @@
-# https://github.com/V-sanjanaareddy/Sanjanaa-portfolio.github.io.git
+# https://v-sanjanaareddy.github.io/Sanjanaa-portfolio.github.io/
  
